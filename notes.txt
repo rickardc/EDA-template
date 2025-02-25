@@ -1,0 +1,3 @@
+conda create --name py312 python=3.12 numpy pandas matplotlib seaborn ipykernel
+
+conda activate py312
